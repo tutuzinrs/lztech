@@ -671,12 +671,6 @@ main {
 .ph-capas {
   background: linear-gradient(135deg, #111318, rgba(240, 0, 245, 0.24));
 }
-.ph-telas {
-  background: linear-gradient(135deg, #111318, rgba(8, 123, 255, 0.3));
-}
-.ph-carcasas {
-  background: linear-gradient(135deg, #111318, rgba(166, 173, 187, 0.26));
-}
 .ph-acessorios {
   background: linear-gradient(135deg, #111318, rgba(239, 255, 0, 0.26));
 }

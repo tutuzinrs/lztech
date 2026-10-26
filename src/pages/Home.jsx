@@ -6,7 +6,7 @@ import { BannerCarousel, SquareBannerRow } from '../components/BannerCarousel'
 
 const BENEFITS = [
   { icon: '🚀', title: 'Entrega rápida', text: 'Enviamos no mesmo dia para a região.' },
-  { icon: '🛡️', title: 'Produtos com garantia', text: 'Peças testadas antes de sair.' },
+  { icon: '🛡️', title: 'Produtos com garantia', text: 'Produtos testados antes do envio.' },
   { icon: '💳', title: 'Pix, cartão ou dinheiro', text: 'Você escolhe como pagar.' },
   { icon: '📲', title: 'Pedido pelo WhatsApp', text: 'Fechou o carrinho, a gente confirma.' },
 ]
@@ -32,11 +32,11 @@ export default function Home() {
       <section className="hero">
         <div className="container hero-inner">
           <div className="hero-copy">
-            <span className="hero-tag">📦 Acessórios • Peças • Reparo</span>
+            <span className="hero-tag">📦 Acessórios para Celular</span>
             <h1>Tudo para o seu celular em um só lugar</h1>
             <p>
-              Carregadores, cabos, fones, películas, capas, telas e carcaças. Monte seu pedido pelo
-              site e finalize direto no WhatsApp.
+              Carregadores, cabos, fones, películas, capas e acessórios. Monte seu pedido pelo site
+              e finalize direto no WhatsApp.
             </p>
             <div className="hero-cta">
               <Link to="/catalogo" className="btn btn-primary btn-lg">

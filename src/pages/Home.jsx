@@ -35,8 +35,8 @@ export default function Home() {
             <span className="hero-tag">📦 Acessórios para Celular</span>
             <h1>Tudo para o seu celular em um só lugar</h1>
             <p>
-              Carregadores, cabos, fones, películas, capas e acessórios. Monte seu pedido pelo site
-              e finalize direto no WhatsApp.
+              Encontre capinhas, películas, carregadores, fones e muito mais. Seu celular quebrou? 
+              Na LZ Tech, também realizamos consertos e manutenção de celulares, com praticidade e qualidade.
             </p>
             <div className="hero-cta">
               <Link to="/catalogo" className="btn btn-primary btn-lg">
